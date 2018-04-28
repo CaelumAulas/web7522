@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  padding-top: 80px;
+}
+
+#btn {
+  border: none;
+  cursor: pointer;
+
+  text-decoration: none;
+  color: #FFF;
+  background-color: #6c5ce7;
+  padding: 5px 15px;
+  border-radius: 5px;
+  transform-origin: center;
+
+  transition: 500ms background-color linear,
+              300ms transform linear;
+}
+
+#btn:hover {
+  background-color: #fd79a8;
+}
+
+#btn:active {
+  transform: scale(0.95);
+}

@@ -2,6 +2,11 @@ li {
   list-style: square;
 }
 
+dd {
+  display: list-item;
+  list-style: disc;
+}
+
 img {
   height: 200px;
 }
