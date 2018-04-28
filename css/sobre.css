@@ -1,0 +1,72 @@
+/* @font-face {
+  font-family: 'Roboto';
+  src: url("../fonts/roboto/Roboto-Black.ttf") format("ttf");
+} */
+
+body {
+  color: #333333;
+  font-family: 'Roboto', 'Arial', sans-serif;
+  background-color: #cee3ff;
+  font-size: 20px;
+}
+
+h1 {
+  background-color: #afafaf;
+}
+
+figure {
+  text-align: center;
+  background-color: #afafaf;
+  border:  10px blue solid;
+}
+
+div {
+  text-align: right;
+}
+
+figcaption {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+
+h2 {
+  border-bottom: 10px yellow dotted !important;
+}
+
+
+/* @font-face {
+  font-family: 'Roboto';
+  src: url("../fonts/roboto/Roboto-Black.ttf") format("ttf");
+} */
+
+body {
+  color: #333333;
+  font-family: 'Roboto', 'Arial', sans-serif;
+  background-color: #cee3ff;
+  font-size: 20px;
+}
+
+h1 {
+  background-color: #afafaf;
+}
+
+figure {
+  text-align: center;
+  background-color: #afafaf;
+  border:  10px blue solid;
+}
+
+div {
+  text-align: right;
+}
+
+figcaption {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+h2 {
+  border-bottom: 1px black solid !important; /* não faça isso, só estava explicando */
+}
+
