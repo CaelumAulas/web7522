@@ -1,0 +1,35 @@
+body {
+  font-family: 'Roboto', 'Open-sans', sans-serif;
+}
+
+header {
+  position: relative
+}
+
+.container {
+  width: 940px;
+  margin: 0 auto;
+}
+
+.sacola {
+  background: url(../img/sacola.png) no-repeat right top red; 
+
+  padding-right: 35px;
+  width: 140px;
+  text-align: right;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.menu-opcoes {
+  text-align: right;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.menu-opcoes li {
+  display: inline;
+  margin-left: 10px;
+}

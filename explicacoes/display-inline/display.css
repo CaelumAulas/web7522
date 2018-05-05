@@ -1,0 +1,32 @@
+p {
+  text-align: right;
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.block-element {
+  width: 33.33%;
+  float: left;
+  list-style: none;
+  color: #FFF;
+  font-size: 90px;
+  vertical-align: middle;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+}
+
+.block-element_first {
+  font-size: 40px;
+  background-color: red;
+}
+
+.block-element_second {
+  background-color: teal;
+}
+
+.block-element_last {
+  font-size: 30px;
+  background-color: blueviolet;
+}
