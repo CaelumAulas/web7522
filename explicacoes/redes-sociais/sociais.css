@@ -1,0 +1,25 @@
+.estrela {
+  display: block;
+  background-image: url('sprite.png');
+  background-repeat: no-repeat;
+  background-position: -110px -210px;
+  width: 13px;
+  height: 13px;
+  text-indent: -9999px;
+}
+
+
+
+
+.twitter {
+  display: block;
+  background-color: red;
+  background-image: url(twitter.png);
+  background-size: 30px;
+  background-repeat: no-repeat;
+  text-indent: -9999px;
+  height: 24px;
+  width: 30px;
+  /* text-indent: 9999px;
+  overflow: hidden; */
+}
