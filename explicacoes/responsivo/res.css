@@ -1,0 +1,20 @@
+footer {
+  clear:both;
+  background-color: blue;
+}
+
+div {
+  width: 400px;
+  height: 350px;
+  float: left;
+}
+
+.first { 
+  background-color: red 
+}
+.second {
+  background-color: yellow
+}
+.last {
+  background-color: violet
+}

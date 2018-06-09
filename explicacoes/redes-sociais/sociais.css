@@ -8,9 +8,6 @@
   text-indent: -9999px;
 }
 
-
-
-
 .twitter {
   display: block;
   background-color: red;
@@ -23,3 +20,27 @@
   /* text-indent: 9999px;
   overflow: hidden; */
 }
+
+/* [class*="btn"] */
+
+.btn {
+  /* db+w90p+m0-auto */
+  display: block;
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
